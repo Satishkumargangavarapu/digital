@@ -1,0 +1,29 @@
+# Task List
+
+- [x] 1. Project Planning & Setup
+  - [x] Generate exhaustive PRD implementation plan
+  - [x] Initialize Next.js and structure scalable architecture
+  - [x] Set up Supabase project, triggers, and schema
+- [x] 2. UI/UX Foundation & Public Pages
+  - [x] Build layout system, motion animations, and emotional theme
+  - [x] Homepage with CTA & Featured Charity
+  - [x] Charity directory with search and filter
+- [x] 3. Authentication & Subscription
+  - [x] Implement Supabase Auth (Signup/Login)
+  - [x] Integrate Stripe (Monthly/Yearly/Webhooks)
+  - [x] Access controls for non-subscribers
+- [x] 4. Core Features (User)
+  - [x] Score management (Enter/Edit, 1-45 Stableford, max 5 entries, reverse chron)
+  - [x] Dashboard: Sub status, Participation summary, Winnings overview
+  - [x] Charity selection & independent donation features
+- [x] 5. Draw Engine
+  - [x] Admin Draw Config (Random/Algorithmic)
+  - [x] Prize pool calculation & multi-winner distribution
+  - [x] Jackpot rollover logic and simulations
+- [x] 6. Admin & Verification
+  - [x] Admin dashboard (Users, Draws, Charities, Reports)
+  - [x] Winner verification (Proof upload, review, payout state)
+  - [x] Email notifications integration (Draws, Winners, System)
+- [x] 7. Polish & Deployment Deliverables
+  - [x] Testing & Mobile responsiveness review
+  - [x] Generate Live URL & setup test credentials (Admin/User)
